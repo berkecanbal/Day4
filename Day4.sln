@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferenceTypes", "ReferenceTypes\ReferenceTypes.csproj", "{8E9A9735-04ED-4CF4-8E4B-50D8C069749A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReferenceTypes", "ReferenceTypes\ReferenceTypes.csproj", "{8E9A9735-04ED-4CF4-8E4B-50D8C069749A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constructors", "Constructors\Constructors.csproj", "{762B0ADC-D5AB-4105-982F-E7C4F103FF2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDictionary", "MyDictionary\MyDictionary.csproj", "{D676F609-6465-4825-BD4A-E144F88097EB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{8E9A9735-04ED-4CF4-8E4B-50D8C069749A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E9A9735-04ED-4CF4-8E4B-50D8C069749A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E9A9735-04ED-4CF4-8E4B-50D8C069749A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{762B0ADC-D5AB-4105-982F-E7C4F103FF2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{762B0ADC-D5AB-4105-982F-E7C4F103FF2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{762B0ADC-D5AB-4105-982F-E7C4F103FF2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{762B0ADC-D5AB-4105-982F-E7C4F103FF2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D676F609-6465-4825-BD4A-E144F88097EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D676F609-6465-4825-BD4A-E144F88097EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D676F609-6465-4825-BD4A-E144F88097EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D676F609-6465-4825-BD4A-E144F88097EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
